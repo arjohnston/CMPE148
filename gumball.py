@@ -1,6 +1,6 @@
 def main():
+    balance = 0
     while(1):
-        balance = 0
 
         userInput = input("0.05: Insert Nickel\n0.10: InsertDime\n0.25: Insert Quarter\nRed: Recieve Red Gumball\nYellow: Revieve Yellow Gumball\nReturn: Return Change\n")
 
